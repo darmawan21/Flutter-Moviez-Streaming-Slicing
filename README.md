@@ -99,3 +99,7 @@ samples, guidance on mobile development, and a full API reference.
 - Project Link: [Streaming Movie](https://github.com/darmawan21/Flutter-Moviez-Streaming-Slicing)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+© 2022 — Muhammad Diki Darmawan
